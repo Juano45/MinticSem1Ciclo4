@@ -1,0 +1,15 @@
+{
+  "name": "crudproyect",
+  "version": "1.0.0",
+  "description": "crud con nodeje",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juano45",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
